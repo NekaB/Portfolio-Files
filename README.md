@@ -1,5 +1,5 @@
 # Sample HTML
-This repo contains all the files necessary to open a simple HTML-based website. It was created for the purpose of being used by Academy Cadets in their final project.
+This repo has all the files necessary to open a simple HTML-based website. It was created for the purpose of being used by Academy Cadets in their final project.
 
 ## Prerequisites
 There are no prerequisites for this project.
