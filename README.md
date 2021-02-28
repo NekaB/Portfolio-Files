@@ -2,7 +2,7 @@
 This repo contains all the files necessary to open a simple HTML-based website. It was created for the purpose of being used by Academy Cadets in their final project.
 
 ## Prerequisites
-There are no prerequisites for this project.
+There are no prerequisites for this project..
 
 ## Download and Usage
 To view, use, or edit the HTML code, clone the repo onto your local machine wherever you want it. <br>
